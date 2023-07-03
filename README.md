@@ -1,7 +1,7 @@
 ![logo](https://previews.123rf.com/images/karpenkoilia/karpenkoilia1806/karpenkoilia180600011/102988806-vector-line-web-concept-for-programming-linear-web-banner-for-coding.jpg)
 <h1 align="center">Hi 👋, I'm Stuti Tiwari</h1>
 <h3 align="center">A passionate Software Developer from India</h3>
-<img align="center" alt="Coding" width="400" src="https://cdn.dribbble.com/users/4055494/screenshots/15215756/media/d2b66c4ca0192aa26d103448b3d1518b.gif"
+<img align="center" alt="Coding" width="400" src="https://cdn.dribbble.com/users/4055494/screenshots/15215756/media/d2b66c4ca0192aa26d103448b3d1518b.gif">
 
 
 <p align="left"> <a href="https://twitter.com/stutitiwari161" target="blank"><img src="https://img.shields.io/twitter/follow/stutitiwari161?logo=twitter&style=for-the-badge" alt="stutitiwari161" /></a> </p>
